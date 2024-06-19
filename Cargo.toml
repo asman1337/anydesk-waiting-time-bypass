@@ -1,0 +1,15 @@
+[package]
+name = "anydesk-waiting-time-bypass"
+version = "0.1.0"
+edition = "2021"
+authors = ["Asman Mirza <asman@otmalse.in>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+colored = "2.1.0"
+dialoguer = "0.11.0"
+logs = "0.7.1"
+simple_logger = "5.0.0"
+sysinfo = "0.30.12"
+log = "0.4.21"
